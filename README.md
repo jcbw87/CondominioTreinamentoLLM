@@ -27,10 +27,10 @@ O prompts criados tiveram o objetivo realizado, com base nas informações, as r
 
 ## Miniguia de Estudo
 
-#Objetivo do Teste: 
+- Objetivo do Teste: 
 Avaliar a capacidade de uma LLM (Large Language Model) em atuar como um assistente virtual para moradores e síndicos, utilizando como base de conhecimento a Convenção Coletiva e o Regimento Interno do Condomínio.
 
-#Metodologia: 
+- Metodologia: 
 Foram realizados uploads de dois arquivos PDF. Testou-se a extração de informações específicas (multas, horários de mudança, regras de barulho) e a capacidade da IA de interpretar normas conflitantes.
 
 Principais Descobertas: > * Precisão: A IA identificou corretamente as cláusulas existentes nas fontes.
