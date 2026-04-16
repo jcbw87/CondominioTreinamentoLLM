@@ -13,7 +13,7 @@ Com dados fictícios no intuito de simular o acesso de condônimos ao regimento 
 "Regimento Interno Condomínio Treinamento LLM.pdf" e "Convenção Coletiva Condomínio Treinamento LLM.pdf", os arquivos foram criados de maneira fictícia.
 
 ## Testes de prompt:
-  - Qual são os horários de silêncio ?
+  - Como posso melhorar o meu regimento interno ? no sentido de cobrir mais tipos de ocorrências que podem acontecer (Pedido de sugestão)
   - É permitidos animais no prédio ?
   - O que não é permitido fazer no prédio ?
   - O que devo fazer para ser um ótimo condônimo ?
