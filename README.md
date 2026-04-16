@@ -14,9 +14,14 @@ Com dados fictícios no intuito de simular o acesso de condônimos ao regimento 
 
 ## Testes de prompt:
   - Como posso melhorar o meu regimento interno ? no sentido de cobrir mais tipos de ocorrências que podem acontecer (Pedido de sugestão)
+  Resumo da resposta
+  A IA observou as fontes e deu susgestão de melhorias como adicione os tópocos: "Logística de Mudanças e Entregas", "Uso de Áreas Comuns Específicas", "Convivência e Hábitos Modernos" e "Garagem e Veículos", cada tópico desse ofereceu regras para serem aplicadas,e ainda sugeriu "Como formalizar essas mudanças?", dando dicas para formalizar os itens.
+   
   - É permitidos animais no prédio ?
   - O que não é permitido fazer no prédio ?
   - O que devo fazer para ser um ótimo condônimo ?
+  Resumo das respostas
+  Para os 3 itens acima, as respostas foram objetivas e diretas, se baseaando nas fontes para oferecer a melhor resposta.
 
 O prompts criados tiveram o objetivo realizado, com base nas informações, as respostas foram claras e objetivas em relação as regras do condomínio.
 
