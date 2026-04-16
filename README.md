@@ -3,7 +3,7 @@ Treinamento de LLM com dados de regimento de Condominio
 
 Link:  https://notebooklm.google.com/notebook/effd6c26-d05b-416a-a8e1-8d84f15797c9
 
- Observação: 
+ ### Observação: 
 Foi criado um "Mapa Mental", para poder navegar por categorias sobre os assuntos abordados no regimento interno e na convenção coletiva.
 
 ## Objetivo:
