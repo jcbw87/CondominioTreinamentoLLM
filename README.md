@@ -1,5 +1,6 @@
 # CondominioTreinamentoLLM
 Treinamento de LLM com dados de regimento de Condominio
+Link:  https://notebooklm.google.com/notebook/effd6c26-d05b-416a-a8e1-8d84f15797c9
 
 Objetivo: Com dados fictícios no intuito de simular o acesso de condônimos ao regimento interno e a convenção coletiva de um condomínio, os condônimos podem acessar e tirar dúvidas com a IA, com base apenas nos dados disponibiizados do regimento e entre outros arquivos que possam ser disponibilizados pelo condomínio.
 
